@@ -8,6 +8,7 @@ public class Main {
         int b=4;
         int c= a+b;
         
-        // didesnis pakeitimas su daugiau eiluciu :)
+        // antras bandymas
+   
     }
 }
